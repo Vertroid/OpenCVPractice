@@ -1,0 +1,9 @@
+%YAML:1.0
+---
+frame_count: 10
+frame_count: 20
+frame_count: 30
+frame_size:
+   - 320
+   - 240
+   - 480

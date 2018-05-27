@@ -6,6 +6,13 @@
 # Ignored files
 *.sln
 *.pdb
+*.idb
+*.obj
+*.ilk
+*.filters
+*.user
+*.vcxproj
+*.filter
 *.log
 *.tlog
 *.exe
