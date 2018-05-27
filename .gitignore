@@ -1,7 +1,7 @@
 # Ignored directories
-/.vs/
-/Debug/
-/Release/
+/*/.vs/
+/*/Debug/
+/*/Release/
 
 # Ignored files
 *.sln
