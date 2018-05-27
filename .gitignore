@@ -1,7 +1,13 @@
 # Ignored directories
-/*/.vs/
-/*/Debug/
-/*/Release/
+/*/.vs/*
+/*/Debug/*
+/*/Release/*
 
 # Ignored files
 *.sln
+*.pdb
+*.log
+*.tlog
+*.exe
+*.lib
+*.dll
